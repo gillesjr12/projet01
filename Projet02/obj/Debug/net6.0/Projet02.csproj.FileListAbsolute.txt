@@ -1,0 +1,15 @@
+C:\Users\James\RiderProjects\Projet01\Projet02\bin\Debug\net6.0\Projet02.exe
+C:\Users\James\RiderProjects\Projet01\Projet02\bin\Debug\net6.0\Projet02.deps.json
+C:\Users\James\RiderProjects\Projet01\Projet02\bin\Debug\net6.0\Projet02.runtimeconfig.json
+C:\Users\James\RiderProjects\Projet01\Projet02\bin\Debug\net6.0\Projet02.dll
+C:\Users\James\RiderProjects\Projet01\Projet02\bin\Debug\net6.0\ref\Projet02.dll
+C:\Users\James\RiderProjects\Projet01\Projet02\bin\Debug\net6.0\Projet02.pdb
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.csproj.AssemblyReference.cache
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.AssemblyInfoInputs.cache
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.AssemblyInfo.cs
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.csproj.CoreCompileInputs.cache
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.dll
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\ref\Projet02.dll
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.pdb
+C:\Users\James\RiderProjects\Projet01\Projet02\obj\Debug\net6.0\Projet02.genruntimeconfig.cache
